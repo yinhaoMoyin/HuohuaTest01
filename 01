@@ -1,0 +1,6 @@
+import unittest,requests
+
+
+class Test_case(unittest.TestCase):
+       s = requests.session()
+       cook = "值"
